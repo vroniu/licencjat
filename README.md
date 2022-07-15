@@ -1,2 +1,2 @@
-# licencjat
-Licencjat source code
+# Licencjat
+Source code do licencjatu. 
